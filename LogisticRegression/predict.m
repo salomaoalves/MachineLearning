@@ -1,4 +1,4 @@
-function p = predictLogisticR(theta, X)
+function p = predict(theta, X)
 % Make prediction to Logistic Regressions models
 
 m = size(X, 1); % Number of training examples

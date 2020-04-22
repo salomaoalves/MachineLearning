@@ -1,4 +1,4 @@
-function J = costFunctionLogisticR(theta, X, y, lambda)
+function J = costFunction(theta, X, y, lambda)
 % Compute cost and gradient for logistic regression with (or not) regularization 
 
 % Initialize some useful values

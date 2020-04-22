@@ -1,4 +1,4 @@
-function [theta, J_history] = gradientDescentLcostFunctionLRR(X, y, theta, alpha, num_iters)
+function [theta, J_history] = gradientDescent(X, y, theta, alpha, num_iters)
 % Do Gradient Descent to Linear Regression (Simple or Multiple)
 
 % Initialize some useful values

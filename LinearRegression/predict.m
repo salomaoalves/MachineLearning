@@ -1,4 +1,4 @@
-function [pred] = predictLinearR(X, theta, mu=0, sigma=1)
+function [pred] = predict(X, theta, mu=0, sigma=1)
 % Make prediction to Linear Regressions models
 
 % ATTENTION:

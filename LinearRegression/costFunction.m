@@ -1,4 +1,4 @@
-function J = costFunctionLinearR(X, y, theta)
+function J = costFunction(X, y, theta)
 % Compute cost for linear regression (simple or multiple)
 
 % Initialize some useful values

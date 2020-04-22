@@ -1,4 +1,4 @@
-function plotDataLcostFunctionLinearR(x, y)
+function plotData(x, y)
 % Plot a graphic with 2 variabels (to Linear Regression)
   
 figure; % open a new figure window

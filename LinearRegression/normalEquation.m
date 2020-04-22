@@ -1,4 +1,4 @@
-function [theta] = normalEqn(X, y)
+function [theta] = normalEquation(X, y)
 % Computes the closed-form solution to linear regression using the normal equations
 
 theta = zeros(size(X, 2), 1); %
