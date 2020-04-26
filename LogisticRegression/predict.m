@@ -1,9 +1,9 @@
 function p = predict(theta, X)
-% Make prediction to Logistic Regressions models
+%Make prediction to Logistic Regressions models
 
-m = size(X, 1); % Number of training examples
+m = size(X, 1); %number of training examples
 
-% You need to return the following variables correctly
+%You need to return the following variables correctly
 p = zeros(m, 1);
 
 p = sigmoid(X*theta);

@@ -1,5 +1,5 @@
 function plotData(X, y)
-% Plot a graphic with 2 variabels (to Logistic Regression)
+%Plot a graphic with 2 variabels (to Logistic Regression)
 
 figure; hold on;
 

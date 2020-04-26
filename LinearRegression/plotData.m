@@ -1,7 +1,7 @@
 function plotData(x, y)
-% Plot a graphic with 2 variabels (to Linear Regression)
+%Plot a graphic with 2 variabels (to Linear Regression)
   
-figure; % open a new figure window
+figure; %open a new figure window
 plot(x,y,'rx','MarkerSize',10)
 
 end
