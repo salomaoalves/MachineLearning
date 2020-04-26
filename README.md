@@ -22,7 +22,7 @@ In this folder, you will find 8 octave file. I list them below and explain what 
 <ul>
   <li>costFunction: creat a Cost Function to Logistic Regression </li>
   <li>fmincg: to optimize the cost function (I didn't code this)</li>
-  <li>oneVsAll: the one vs all algorithm, used when we have more then 2 answer</li>
+  <li>oneVsAll: the one vs all algorithm, used when we have more then 2 class</li>
   <li>plotData: to plot the data</li>
   <li>predict: make the predictions</li>
   <li>predictOneVsAll: make the predictions using the one vs all algorithm</li>
