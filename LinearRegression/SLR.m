@@ -2,7 +2,7 @@
 %The data set is ex1data1.txt
 
 %======================================LOAD THE DATA=============================================
-data = load('ex1data1.txt');
+data = load('data1.txt');
 X = data(:, 1); 
 y = data(:, 2);
 m = length(y);
