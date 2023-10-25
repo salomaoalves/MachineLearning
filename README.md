@@ -34,7 +34,6 @@ In this folder, you will find 11 file. I list them below and explain what each o
   <li>data2: data set 2</li>
 </ul>
 
-# [SOON]-----------------------------------------------------
 
 **3 Neural Networks**
 
